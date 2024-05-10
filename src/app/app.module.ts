@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { GalerieImagesComponent } from './galerie-images/galerie-images.component';
 
+/* comment pour le commit */
 @NgModule({
   declarations: [
     AppComponent,

@@ -11,7 +11,7 @@ export class GalerieImagesComponent {
   imageDescription!: string;
   imageDate!: Date;
   imageLocation!: string;
-
+  
   ngOnInit() {
     this.imageUrl ="img/tamatoa.jpg";
     this.imageAlt = "Tamatoa le Crabe";
